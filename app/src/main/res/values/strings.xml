@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">P09_NDP_Songs</string>
+    <string name="title">Song Title</string>
+    <string name="title_hint">Enter song title here</string>
+    <string name="singers">Singers</string>
+    <string name="singers_hint">Enter singers\' name here</string>
+    <string name="year">Year</string>
+    <string name="year_hint">Enter year of release here</string>
+    <string name="stars">Stars</string>
+    <string name="btnInsert">Insert</string>
+    <string name="btnShow">Show List</string>
+    <string name="delete">delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="update">update</string>
+    <string name="song_id">Song ID</string>
+</resources>
